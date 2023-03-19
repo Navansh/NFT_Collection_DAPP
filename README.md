@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BUIDL-IRL
 
 ![1D13C407-7B37-4572-9B81-FD92C807A269](https://user-images.githubusercontent.com/79016290/225668652-832dd0e7-2aeb-412d-81ae-9ceceab56d00.GIF)
@@ -71,3 +72,6 @@ Make sure to join the Telegram Group for any queries
 ---
 
 ---
+=======
+# NFT_Collection_DAPP
+>>>>>>> ec9ef0ff46dece616604f03d7681233eb52447df
